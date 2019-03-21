@@ -7,6 +7,9 @@ extern struct StepsData stepsData;
 extern struct CompressorInfo compressorInfo[6];
 extern struct WorkingData workingData;
 
+//Hello github
+
+
 extern File dataFile;
 
 char message[128] = {0};
